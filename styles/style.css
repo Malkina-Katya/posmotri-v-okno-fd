@@ -53,12 +53,14 @@ html {
   gap: 30px;
   height: 298px;
   overflow: auto;
+  position: relative;
 }
 
 .result__video-container {
   width: 711px;
   height: 386px;
   margin-bottom: 16px;
+  position: relative;
 }
 
 .result__video {
@@ -106,11 +108,6 @@ html {
 
 .content__accent {
   color: #545050;
-}
-
-.content__card-link {
-  color: #fff;
-  text-decoration: none;
 }
 
 .content__video-card-title {
@@ -255,6 +252,8 @@ html {
 .content__card-link {
   display: block;
   cursor: pointer;
+  color: #fff;
+  text-decoration: none;
 }
 
 .content__card-link_current {
@@ -280,14 +279,6 @@ html {
 
 .content__list-item {
   padding: 0px 3px;
-}
-
-.result__video-container {
-  position: relative;
-}
-
-.content__list-container {
-  position: relative;
 }
 
 h1,
