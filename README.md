@@ -1,1 +1,1 @@
-https://github.com/Malkina-Katya/posmotri-v-okno-fd#
+https://github.com/Malkina-Katya/posmotri-v-okno-fd
